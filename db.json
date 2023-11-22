@@ -1,12 +1,22 @@
 {
   "users": [
     {
-      "user": {
-        "firstName": "Tshephang",
-        "lastName": "Mampa",
-        "email": "user@serve.com"
-      },
+      "firstName": "Tshephang",
+      "lastName": "Mampa",
+      "email": "user@serve.com",
       "id": 1
+    },
+    {
+      "firstName": "sakjjas",
+      "lastName": "das;kd;as",
+      "email": "asdas",
+      "id": 3
+    },
+    {
+      "firstName": "erewre",
+      "lastName": "rwerwe",
+      "email": "werwe",
+      "id": 4
     }
   ]
 }
