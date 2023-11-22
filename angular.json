@@ -65,10 +65,12 @@
           },
           "configurations": {
             "production": {
-              "browserTarget": "users:build:production"
+              "browserTarget": "users:build:production",
+              "proxyConfig": "proxy.conf.json"
             },
             "development": {
-              "browserTarget": "users:build:development"
+              "browserTarget": "users:build:development",
+              "proxyConfig": "proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"

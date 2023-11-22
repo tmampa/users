@@ -13,6 +13,6 @@ export class ApiService {
     return this.http.get(this.rootURL + '/users');
   }
   addUser(user: any) {
-    return this.http.post(this.rootURL + '/user', {user});
+    return this.http.post(this.rootURL + '/users', {user});
   }
 }

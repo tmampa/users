@@ -1,14 +1,12 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "John Doe",
-      "email": "johndoe@server.json"
-    },
-    {
-      "id": 2,
-      "name": "Jane Doe",
-      "email": "janedoe@server.json"
+      "user": {
+        "firstName": "Tshephang",
+        "lastName": "Mampa",
+        "email": "user@serve.com"
+      },
+      "id": 1
     }
   ]
 }
